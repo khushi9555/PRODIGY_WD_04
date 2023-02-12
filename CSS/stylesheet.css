@@ -1,0 +1,106 @@
+body {
+  text-align: center;
+  margin: 0;
+  line-height: 25px;
+
+}
+
+.top-container {
+  /* background-color: #f3f9ff; */
+  height: 400px;
+  position: relative;
+  padding-top: 22px;
+}
+
+
+
+.skills {
+  width: 50%;
+    margin: auto auto auto 385px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto auto auto 385px;
+}
+
+h1 {
+      margin: 130px auto auto auto;
+  color: #18978F;
+  font-family: 'Dancing Script', cursive;
+  font-size: 110px;
+  font-weight: 400;
+}
+h5{
+  font-size: 25px;
+  margin-top: 100px;
+}
+
+li {
+  display: inline-block;
+  margin: 30px;
+  color: #04a49d;;
+}
+
+.navbar-item {
+  display: inline;
+  color:#04a49d;;
+  margin-left: 761px;
+  padding-left: 260px;
+  font-weight: bold;
+}
+.navbar-girl{
+  height: 80px;
+  width: 75px;
+  float: left;
+  padding-left: 20px;
+}
+h2 , h5,h3{
+  color: #04a49d;;
+}
+.footer-link{
+  width: 25px;
+  height: 25px;
+}
+.contact-me{
+  background-color: #f3f9ff;
+}
+.girl1{
+  float : left;
+  width : 250px;
+  height : 250px;
+    margin-top: 57px;
+}
+.eye{
+  float : left;
+      padding: 193px 26px 1px 0px;
+}
+.girl2{
+  float : right;
+  width : 250px;
+  height : 250px;
+      padding: 40px 0 0 6px;
+}
+.computer{
+  float : right;
+      padding: 179px 0 0 10px;
+      width : 100px;
+      height : 100px;
+}
+.skill1-par{
+  text-align: left;
+}
+
+.skill2-par{
+  text-align: left;
+}
+.skill-row{
+  margin : 100px 0 100px;
+}
+.footer-link{
+  width : 20px ;
+
+}
+.btn{
+  margin : 10px;
+}
