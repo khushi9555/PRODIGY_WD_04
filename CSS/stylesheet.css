@@ -12,7 +12,9 @@ body {
   padding-top: 22px;
 }
 
-
+p{
+  font-family: 'Ubuntu', sans-serif;
+}
 
 .skills {
   width: 50%;
@@ -33,7 +35,7 @@ h1 {
 }
 h5{
   font-size: 25px;
-  margin-top: 100px;
+  margin-top: 76px;
 }
 
 li {
@@ -58,12 +60,9 @@ li {
 h2 , h5,h3{
   color: #04a49d;;
 }
-.footer-link{
-  width: 25px;
-  height: 25px;
-}
+
 .contact-me{
-  background-color: #f3f9ff;
+  padding : 119px 0 120px 0 ;
 }
 .girl1{
   float : left;
@@ -101,6 +100,17 @@ h2 , h5,h3{
   width : 20px ;
 
 }
-.btn{
-  margin : 10px;
+a{
+  margin : 15px 15px 25px 15px;
+  text-decoration: none;
+  color :#f3f9ff;
+}
+a:hover{
+  color : black;
+  background-color: #f3f9ff;
+}
+.footer{
+    /* background-color: #f3f9ff; */
+     background-color : #04a49d;
+    padding : 30px 0 10px 0 ;
 }
